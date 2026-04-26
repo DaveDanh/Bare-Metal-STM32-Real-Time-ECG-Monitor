@@ -1,0 +1,9 @@
+../Src/main.c:38:20:gpioSetMode	24	static
+../Src/main.c:46:20:gpioSetAF	24	static
+../Src/main.c:125:6:SysTick_Handler	8	static
+../Src/main.c:130:6:systick_init	16	static
+../Src/main.c:137:6:DMA1_Channel1_IRQHandler	16	static
+../Src/main.c:149:20:uart_write_char	16	static,ignoring_inline_asm
+../Src/main.c:157:13:uart_write_bytes	24	static
+../Src/main.c:164:20:delay	24	static,ignoring_inline_asm
+../Src/main.c:172:5:main	40	static,ignoring_inline_asm
